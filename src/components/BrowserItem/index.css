@@ -1,0 +1,24 @@
+.list-item-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.time {
+  margin: 10px;
+}
+.logo {
+  margin: 10px;
+}
+.title {
+  margin: 10px;
+}
+.domain {
+  margin: 10px;
+  color: #64748b;
+}
+
+.delete-icon {
+  padding-top: 5px;
+  display: flex;
+  align-self: flex-end;
+}
